@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" rx="8" fill="#E4E8EE"/>
+  <rect x="0" y="262" width="400" height="38" fill="#1F3A5F"/>
+  <path d="M65 85 C110 70 160 76 196 100 L196 215 C160 192 110 188 65 202 Z" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M335 85 C290 70 240 76 204 100 L204 215 C240 192 290 188 335 202 Z" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="6" stroke-linejoin="round"/>
+  <g stroke="#9AA8B8" stroke-width="5" stroke-linecap="round">
+    <line x1="90" y1="112" x2="170" y2="128"/><line x1="90" y1="138" x2="170" y2="154"/><line x1="90" y1="164" x2="170" y2="180"/>
+    <line x1="310" y1="112" x2="230" y2="128"/><line x1="310" y1="138" x2="230" y2="154"/><line x1="310" y1="164" x2="230" y2="180"/>
+  </g>
+  <circle cx="200" cy="60" r="26" fill="#3E6B6B"/>
+  <path d="M188 60 L197 69 L214 49" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="287" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#FFFFFF" text-anchor="middle">Información verificada</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F3A5F"/>
+      <stop offset="1" stop-color="#3B5573"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="8" fill="url(#g)"/>
+  <rect x="0" y="176" width="800" height="24" fill="#16304F"/>
+  <!-- corazón -->
+  <path d="M150 128 C95 90 115 48 150 70 C185 48 205 90 150 128 Z" fill="none" stroke="#E4E8EE" stroke-width="5" stroke-linejoin="round"/>
+  <!-- escudo -->
+  <path d="M400 30 L452 47 L452 92 C452 122 430 138 400 150 C370 138 348 122 348 92 L348 47 Z" fill="none" stroke="#E4E8EE" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M380 92 L395 107 L422 76" fill="none" stroke="#E4E8EE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- balanza -->
+  <g stroke="#E4E8EE" stroke-width="5" stroke-linecap="round" fill="none">
+    <line x1="650" y1="40" x2="650" y2="135"/>
+    <line x1="610" y1="135" x2="690" y2="135"/>
+    <line x1="595" y1="58" x2="705" y2="58"/>
+    <path d="M595 58 L577 98 L613 98 Z"/>
+    <path d="M705 58 L687 98 L723 98 Z"/>
+  </g>
+  <text x="400" y="194" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#E4E8EE" text-anchor="middle">Autocuidado  |  Prevención  |  Derechos</text>
+</svg>

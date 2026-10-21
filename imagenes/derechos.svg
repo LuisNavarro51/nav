@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" rx="8" fill="#E4E8EE"/>
+  <rect x="0" y="262" width="400" height="38" fill="#1F3A5F"/>
+  <g stroke="#1F3A5F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <line x1="200" y1="45" x2="200" y2="225"/>
+    <line x1="140" y1="225" x2="260" y2="225"/>
+    <line x1="95" y1="75" x2="305" y2="75"/>
+    <path d="M95 75 L65 150 L125 150 Z"/>
+    <path d="M305 75 L275 150 L335 150 Z"/>
+  </g>
+  <path d="M65 150 Q95 180 125 150 Z" fill="#3E6B6B"/>
+  <path d="M275 150 Q305 180 335 150 Z" fill="#3E6B6B"/>
+  <circle cx="200" cy="45" r="10" fill="#1F3A5F"/>
+  <text x="200" y="287" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#FFFFFF" text-anchor="middle">Igualdad y respeto para todos</text>
+</svg>

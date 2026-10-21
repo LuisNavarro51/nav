@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" rx="8" fill="#E4E8EE"/>
+  <rect x="0" y="262" width="400" height="38" fill="#1F3A5F"/>
+  <path d="M200 30 L285 57 L285 135 C285 188 246 216 200 238 C154 216 115 188 115 135 L115 57 Z" fill="#1F3A5F"/>
+  <path d="M200 50 L267 71 L267 133 C267 175 237 198 200 216 C163 198 133 175 133 133 L133 71 Z" fill="#5B7083"/>
+  <path d="M168 133 L192 157 L234 106" fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="287" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#FFFFFF" text-anchor="middle">Anticiparse a los riesgos</text>
+</svg>
